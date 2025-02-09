@@ -1,0 +1,7 @@
+﻿; MapChange.def : DLL のモジュール パラメーターを宣言します。
+
+LIBRARY "MapChangedll"
+
+EXPORTS
+    ; 明示的なエクスポートはここへ記述できます
+    MapChange @1
